@@ -1,0 +1,36 @@
+body{
+background-color: #eaeaea;
+ }
+.top-menu{
+text-align:center;
+width:700px;
+height:80px;
+border:none;
+margin:auto;
+margin-top:25px;
+}
+a{
+font-size:40px;
+text-decoration:none;
+}
+ol>li{
+list-style: none;
+position:relative;
+display:inline;
+margin:20px;
+color:black;
+}
+table{
+border:1px solid;
+width:800px;
+}
+details{
+text-align:center;
+font-size:23px;
+}
+#tables{
+margin-left:150px;
+}
+td{
+width:150px;
+}

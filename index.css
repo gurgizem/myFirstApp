@@ -1,0 +1,43 @@
+body{
+background-color: #eaeaea;
+ }
+h1{
+text-align:center;
+color: black;
+font-size:100px;
+margin-top:150px;
+ }
+p{
+font-size:35px;
+padding-left:200px;
+color: black;
+margin-top:130px;
+ }
+.top-menu{
+text-align:center;
+width:700px;
+height:80px;
+border:none;
+margin:auto;
+margin-top:25px;
+}
+a{
+font-size:40px;
+text-decoration:none;
+}
+li{
+list-style: none;
+position:relative;
+display:inline;
+margin:20px;
+color:black;
+}
+details{
+text-align:center;
+font-size:23px;
+}
+img{
+width:150px;
+height:150px;
+margin-left:200px;
+}
